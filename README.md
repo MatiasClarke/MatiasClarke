@@ -5,9 +5,10 @@
   <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=MatiasClarke&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
 </a>
 <h4>
-# # ¿Quién eres?
+¿Quién eres?
+<td>
 Mi nombre es Matias Clarke, soy un profesional con una sólida formación en gestión, ventas y desarrollo de páginas web,
-previamente trabajado en plataformas como Wix y Exur, ahora ya codificando por mi mismo.
+previamente trabajado en plataformas como Wix y Exur, ahora ya codificando por mi mismo.</td>
 
 ¿De dónde eres?
 Soy de Ovalle, Chile.
