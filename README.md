@@ -6,7 +6,7 @@
 </a>
 <h4>
 ¿Quién eres?
-<td>
+<tr>
 Mi nombre es Matias Clarke, soy un profesional con una sólida formación en gestión, ventas y desarrollo de páginas web,
 previamente trabajado en plataformas como Wix y Exur, ahora ya codificando por mi mismo.
 
