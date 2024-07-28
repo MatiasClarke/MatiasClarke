@@ -1,3 +1,11 @@
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=MatiasClarke&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=MatiasClarke&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
+</a>
+¡Gracias por visitar mi perfil! No dudes en contactarme para discutir oportunidades de colaboración o cualquier pregunta que puedas tener.
+
 ¿Quién eres?
 Mi nombre es Matias Clarke, soy un profesional con una sólida formación en gestión, ventas y desarrollo de páginas web,
 previamente trabajado en plataformas como Wix y Exur, ahora ya codificando por mi mismo.
